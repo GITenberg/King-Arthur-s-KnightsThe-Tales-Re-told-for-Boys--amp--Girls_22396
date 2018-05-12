@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25307
 description: Recounts the tales of King Arthur and his knights, from the early prophecies
   of Merlin and Arthur's birth to the destruction of Camelot.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22396#King-Arthur-s-KnightsThe-Tales-Re-told-for-Boys--amp--Girls
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Arthurian Legends
